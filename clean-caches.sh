@@ -1,5 +1,5 @@
 
-
+##this is a shell script
 #!/bin/bash
 sync; echo 1 >/proc/sys/vm/drop_caches
 sleep 1
